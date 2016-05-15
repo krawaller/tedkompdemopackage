@@ -57,7 +57,7 @@
 	window.Rx = __webpack_require__(256);
 	//window.sinon = require('sinon');
 
-	console.log("Welcome to Edument's JavaScript demos for Qlik!");
+	console.log("Welcome to Edument's JavaScript demos for Tedkomp!");
 
 	window.print = function(){
 		var parts = _.reduce(arguments,function(mem,a){
